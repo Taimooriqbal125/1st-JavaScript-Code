@@ -17,4 +17,12 @@ var digit3 = 10;
 var arthemeticOperator = digit1 - digit2 - digit3 ;
 console.log(arthemeticOperator)
 
+// Multiplication
+
+var num01 = 20;
+var num02 = 10;
+var num03 = 5;
+var arthemeticOperator = num01 * num02 * num03 ;
+console.log (arthemeticOperator) 
+
 
